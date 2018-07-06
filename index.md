@@ -20,9 +20,9 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: 'Communicate effectively with data. '
+  content: 'Vertegr is specializes in the vertical integration of data, networking
+    and telecommunications. '
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2018/07/06/What-is-teletype.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
